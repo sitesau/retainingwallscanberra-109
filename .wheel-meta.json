@@ -1,0 +1,22 @@
+{
+  "wheel_id": 588,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-109",
+  "project": "retaining-walls-canberra-planning-guide-4b7b0a84ca0aee28406352e",
+  "parent_t1_ref": "retainingwallscanberra-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining walls canberra planning guide",
+  "intended_url": "https://sitesau.github.io/retainingwallscanberra-109/",
+  "tier": "T2",
+  "writeback_nonce": "8caa4c7da366d811",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-canberra-faq-e7ce83c0555aeb99de72e479597a2f48de/",
+      "anchor": "retaining walls canberra faq",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
